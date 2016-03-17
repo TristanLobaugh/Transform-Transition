@@ -1,0 +1,45 @@
+body{
+	background-color: #000;
+	color: #fff;
+	text-align: center;
+}
+img{
+	/*transform: skewX(20deg);
+	transform: skewY(50deg);*/
+	transform: translate(200px);
+	transform: scale(-1, -1);
+}
+/*#ticket{
+	width: 225px;
+	padding-top: 75px;
+}
+
+.right, .left{
+	background-image: url("ticket.png")
+	height: 96px;
+}
+
+.left{
+	width: 76px;
+}
+.right{
+	width: 149px;
+}*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
